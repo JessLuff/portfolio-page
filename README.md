@@ -10,6 +10,7 @@ In future revisions, the 'work' links will direct to completed coding projects.
 In the Contact Me section, email directs to send an email to myself, and Github directs to my Github profile.
 
 ![Screenshot](./assets/images/screenshot.png)
+![Screenshot](./assets/images/screenshot2.png)
 
 Creator: JessLuff
 Email: jessica.luff@outlook.com
